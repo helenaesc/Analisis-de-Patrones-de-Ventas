@@ -1,0 +1,39 @@
+ID_Producto,Nombre_producto,Categoría
+1,Leche,Lácteos
+2,Yogur,Lácteos
+3,Queso cremoso,Lácteos
+4,Queso rallado,Lácteos
+5,Manteca,Lácteos
+6,Asado,Carnicería
+7,Chorizo,Carnicería
+8,Milanesa,Carnicería
+9,Pollo,Carnicería
+10,Costilla de cerdo,Carnicería
+11,Salchicha,Carnicería
+12,Pan francés,Panadería
+13,Pan integral,Panadería
+14,Facturas,Panadería
+15,Medialunas,Panadería
+16,Tortas,Panadería
+17,Manzanas,Frutas y Verduras
+18,Bananas,Frutas y Verduras
+19,Tomates,Frutas y Verduras
+20,Lechugas,Frutas y Verduras
+21,Zanahorias,Frutas y Verduras
+22,Cebolla,Frutas y Verduras
+23,Papas fritas,Congelados
+24,Empanadas,Congelados
+25,Pizza congelada,Congelados
+26,Hamburgesas congeladas,Congelados
+27,Agua mineral,Bebidas
+28,Jugos de frutas,Bebidas
+29,Cerveza,Bebidas
+30,Vino tinto,Bebidas
+31,Galletitas de agua,Galletitas y Snacks
+32,Galletitas de chocolate,Galletitas y Snacks
+33,Papas chips,Galletitas y Snacks
+34,Maníes,Galletitas y Snacks
+35,Arroz,Conservas
+36,Lentejas,Conservas
+37,Garbanzos,Conservas
+38,Atún enlatado,Conservas

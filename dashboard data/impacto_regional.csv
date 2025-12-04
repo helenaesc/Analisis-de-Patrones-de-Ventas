@@ -1,0 +1,19 @@
+Región,Ingreso_Actual,Ingreso_Sim,Escenario,Delta_Abs,Delta_Pct
+Buenos Aires,37144.8,40317.9190434569,Escenario 1: +10% todas las categorías,3173.1190434569,8.542565967394896
+Centro,20363.58,22498.752857481562,Escenario 1: +10% todas las categorías,2135.1728574815606,10.485252875386157
+Cuyo,14177.49,15547.95670406243,Escenario 1: +10% todas las categorías,1370.46670406243,9.666497412887825
+NEA,11251.32,12470.953157829395,Escenario 1: +10% todas las categorías,1219.6331578293957,10.839911742172436
+NOA,2456.64,2714.277682625493,Escenario 1: +10% todas las categorías,257.6376826254932,10.487400784221261
+Patagonia,18553.53,20499.877334243825,Escenario 1: +10% todas las categorías,1946.3473342438265,10.490442165150386
+Buenos Aires,37144.8,38781.99714158067,Escenario 2: +10% solo categorías inelásticas,1637.1971415806693,4.4076079063036255
+Centro,20363.58,21626.028941047756,Escenario 2: +10% solo categorías inelásticas,1262.4489410477545,6.199543209238033
+Cuyo,14177.49,15070.495545373758,Escenario 2: +10% solo categorías inelásticas,893.0055453737587,6.298756305761871
+NEA,11251.32,11975.736276329202,Escenario 2: +10% solo categorías inelásticas,724.4162763292024,6.438500338886482
+NOA,2456.64,2657.631454718708,Escenario 2: +10% solo categorías inelásticas,200.99145471870816,8.181559150657327
+Patagonia,18553.53,19639.418504381858,Escenario 2: +10% solo categorías inelásticas,1085.888504381859,5.852732630296548
+Buenos Aires,37144.8,37144.8,Escenario 3: -10% categorías muy elásticas,0.0,0.0
+Centro,20363.58,20363.58,Escenario 3: -10% categorías muy elásticas,0.0,0.0
+Cuyo,14177.49,14177.49,Escenario 3: -10% categorías muy elásticas,0.0,0.0
+NEA,11251.32,11251.32,Escenario 3: -10% categorías muy elásticas,0.0,0.0
+NOA,2456.64,2456.64,Escenario 3: -10% categorías muy elásticas,0.0,0.0
+Patagonia,18553.53,18553.53,Escenario 3: -10% categorías muy elásticas,0.0,0.0
