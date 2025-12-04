@@ -119,6 +119,7 @@ En el EDA se priorizó el análisis de **regiones**, **productos** e **ingresos 
 
 ## Estructura del repositorio
 
+```text
 .
 ├── notebook data/         # Datos crudos de Kaggle
 ├── dashboard data/        # Datos limpios y transformados para el dashboard
@@ -127,17 +128,18 @@ En el EDA se priorizó el análisis de **regiones**, **productos** e **ingresos 
 ├── reports/               # Presentación PDF y reporte técnico
 └── README.md
 
+```
 
 ## Uso
 
-- Notebook
+- **Notebook**
 1. Clonar el repositorio
 2. Abrir el Jupyter notebook en VS Code
 3. Ir a la carpeta de notebook/
 4. Ejecutar el código
 5. Explorar cada sección
 
-- Dashboard
+- **Dashboard**
 1. Descargar el dashboard
 2. Descargar los datos de la carpeta dashboard data/
 3. Abrir el archivo .pbix en Power BI
